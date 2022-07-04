@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: brown;
+    padding: 30px;
+}
+
+h3{
+    padding: 50px 1px 50px 1px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    border: 1px black solid;
+    font-weight: bold;
+    color: black;
+}
+main{
+    background-image: url(../img/Insurance-illustration_detail.jpg);
+    padding: 75px;
+}
